@@ -17,7 +17,7 @@ Este proyecto incluye implementaciones de diversas instrucciones en ensamblador 
 - **Extensiones personalizadas**: instrucciones adicionales para optimizar la ejecución de operaciones específicas.
 
 ## Requisitos
-Para ejecutar y probar los archivos de este proyecto, se recomienda usar el simulador de RISC-V y microprocesadores WEPSIM.
+Para ejecutar y probar los archivos de este proyecto se recomienda usar el simulador de RISC-V y microprocesadores WEPSIM, entorno en el que se ha desarrollado la práctica.
 
 ## Autores
-Para consultar los autores de esta práctica, revisar el archivo `autores.txt`.
+Para consultar los autores de esta práctica revisar el archivo `autores.txt`.
